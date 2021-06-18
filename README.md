@@ -1,1 +1,1 @@
-# [Решение на DockerHub](https://hub.docker.com/r/doroshenko163/db-api-for-docker)
+## [Решение на DockerHub](https://hub.docker.com/r/doroshenko163/db-api-for-docker) :point_right: [задания "3.1.2 Docker - Докеризация приложения"](https://github.com/netology-code/aqa-homeworks/tree/master/docker)
